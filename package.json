@@ -1,0 +1,18 @@
+{
+  "name": "fontlist-vs-font-manager",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "font-manager": "^0.3.1",
+    "fontscan": "^0.2.6",
+    "table": "^5.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

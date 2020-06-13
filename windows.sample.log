@@ -1,0 +1,806 @@
+time
+fontscan: 1296.512ms
+font-manager: 337.712ms
+
+count
+fontscan: 431
+font-manager: 433
+equals: 345
+
+diff
+╔═══════════════════════════════════════════════════╤═════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ fontscan                                          │ font-manager                                                                                                ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\ARLRDBD.TTF                │ Path: C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.0.1401.0_X64__8WEKYB3D8BBWE\CASCADIA.TTF     ║
+║ Family: Arial Rounded MT Bold                     │ Family: Cascadia Code                                                                                       ║
+║ Postscript name: ArialRoundedMTBold               │ Postscript name: CascadiaCode-Regular                                                                       ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\bahnschrift.ttf            │ Path: C:\PROGRAM FILES\WINDOWSAPPS\MICROSOFT.WINDOWSTERMINAL_1.0.1401.0_X64__8WEKYB3D8BBWE\CASCADIAMONO.TTF ║
+║ Family: Bahnschrift                               │ Family: Cascadia Mono                                                                                       ║
+║ Postscript name: Bahnschrift                      │ Postscript name: CascadiaMono-Regular                                                                       ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDGothicB.ttc          │ Path: C:\WINDOWS\FONTS\ARLRDBD.TTF                                                                          ║
+║ Family: BIZ UDGothic                              │ Family: Arial Rounded MT Bold                                                                               ║
+║ Postscript name: BIZ-UDGothic-Bold                │ Postscript name: ArialRoundedMTBold                                                                         ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDGothicB.ttc          │ Path: C:\WINDOWS\FONTS\BAHNSCHRIFT.TTF                                                                      ║
+║ Family: BIZ UDPGothic                             │ Family: Bahnschrift Light                                                                                   ║
+║ Postscript name: BIZ-UDPGothic-Bold               │ Postscript name: Bahnschrift                                                                                ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 300                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDGothicR.ttc          │ Path: C:\WINDOWS\FONTS\BIZ-UDGOTHICB.TTC                                                                    ║
+║ Family: BIZ UDGothic                              │ Family: BIZ UDゴシック                                                                                      ║
+║ Postscript name: BIZ-UDGothic                     │ Postscript name: BIZ-UDGothic-Bold                                                                          ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDGothicR.ttc          │ Path: C:\WINDOWS\FONTS\BIZ-UDGOTHICB.TTC                                                                    ║
+║ Family: BIZ UDPGothic                             │ Family: BIZ UDPゴシック                                                                                     ║
+║ Postscript name: BIZ-UDPGothic                    │ Postscript name: BIZ-UDPGothic-Bold                                                                         ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDMinchoM.ttc          │ Path: C:\WINDOWS\FONTS\BIZ-UDGOTHICR.TTC                                                                    ║
+║ Family: BIZ UDMincho Medium                       │ Family: BIZ UDゴシック                                                                                      ║
+║ Postscript name: BIZ-UDMincho-Medium              │ Postscript name: BIZ-UDGothic                                                                               ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 500                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BIZ-UDMinchoM.ttc          │ Path: C:\WINDOWS\FONTS\BIZ-UDGOTHICR.TTC                                                                    ║
+║ Family: BIZ UDPMincho Medium                      │ Family: BIZ UDPゴシック                                                                                     ║
+║ Postscript name: BIZ-UDPMincho-Medium             │ Postscript name: BIZ-UDPGothic                                                                              ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 500                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BRITANIC.TTF               │ Path: C:\WINDOWS\FONTS\BIZ-UDMINCHOM.TTC                                                                    ║
+║ Family: Britannic Bold                            │ Family: BIZ UD明朝 Medium                                                                                   ║
+║ Postscript name: BritannicBold                    │ Postscript name: BIZ-UDMincho-Medium                                                                        ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 500                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\BRLNSDB.TTF                │ Path: C:\WINDOWS\FONTS\BIZ-UDMINCHOM.TTC                                                                    ║
+║ Family: Berlin Sans FB Demi                       │ Family: BIZ UDP明朝 Medium                                                                                  ║
+║ Postscript name: BerlinSansFBDemi-Bold            │ Postscript name: BIZ-UDPMincho-Medium                                                                       ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 500                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\Candaral.ttf               │ Path: C:\WINDOWS\FONTS\BRITANIC.TTF                                                                         ║
+║ Family: Candara Light                             │ Family: Britannic Bold                                                                                      ║
+║ Postscript name: Candara-Light                    │ Postscript name: BritannicBold                                                                              ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\Candarali.ttf              │ Path: C:\WINDOWS\FONTS\BRLNSDB.TTF                                                                          ║
+║ Family: Candara Light                             │ Family: Berlin Sans FB Demi                                                                                 ║
+║ Postscript name: Candara-LightItalic              │ Postscript name: BerlinSansFBDemi-Bold                                                                      ║
+║ Style: Italic                                     │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\COOPBL.TTF                 │ Path: C:\WINDOWS\FONTS\CANDARAL.TTF                                                                         ║
+║ Family: Cooper Black                              │ Family: Candara Light                                                                                       ║
+║ Postscript name: CooperBlack                      │ Postscript name: Candara-Light                                                                              ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 300                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\COPRGTB.TTF                │ Path: C:\WINDOWS\FONTS\CANDARALI.TTF                                                                        ║
+║ Family: Copperplate Gothic Bold                   │ Family: Candara Light                                                                                       ║
+║ Postscript name: CopperplateGothic-Bold           │ Postscript name: Candara-LightItalic                                                                        ║
+║ Style: Regular                                    │ Style: Italic                                                                                               ║
+║ Weight: 400                                       │ Weight: 300                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\COPRGTL.TTF                │ Path: C:\WINDOWS\FONTS\COOPBL.TTF                                                                           ║
+║ Family: Copperplate Gothic Light                  │ Family: Cooper Black                                                                                        ║
+║ Postscript name: CopperplateGothic-Light          │ Postscript name: CooperBlack                                                                                ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 900                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\ERASBD.TTF                 │ Path: C:\WINDOWS\FONTS\COPRGTB.TTF                                                                          ║
+║ Family: Eras Bold ITC                             │ Family: Copperplate Gothic Bold                                                                             ║
+║ Postscript name: ErasITC-Bold                     │ Postscript name: CopperplateGothic-Bold                                                                     ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\ERASDEMI.TTF               │ Path: C:\WINDOWS\FONTS\COPRGTL.TTF                                                                          ║
+║ Family: Eras Demi ITC                             │ Family: Copperplate Gothic Light                                                                            ║
+║ Postscript name: ErasITC-Demi                     │ Postscript name: CopperplateGothic-Light                                                                    ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 300                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\ERASLGHT.TTF               │ Path: C:\WINDOWS\FONTS\ERASBD.TTF                                                                           ║
+║ Family: Eras Light ITC                            │ Family: Eras Bold ITC                                                                                       ║
+║ Postscript name: ErasITC-Light                    │ Postscript name: ErasITC-Bold                                                                               ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\FRADM.TTF                  │ Path: C:\WINDOWS\FONTS\ERASDEMI.TTF                                                                         ║
+║ Family: Franklin Gothic Demi                      │ Family: Eras Demi ITC                                                                                       ║
+║ Postscript name: FranklinGothic-Demi              │ Postscript name: ErasITC-Demi                                                                               ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\FRADMCN.TTF                │ Path: C:\WINDOWS\FONTS\ERASLGHT.TTF                                                                         ║
+║ Family: Franklin Gothic Demi Cond                 │ Family: Eras Light ITC                                                                                      ║
+║ Postscript name: FranklinGothic-DemiCond          │ Postscript name: ErasITC-Light                                                                              ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 300                                                                                                 ║
+║ Width: 3                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\FRADMIT.TTF                │ Path: C:\WINDOWS\FONTS\FRADM.TTF                                                                            ║
+║ Family: Franklin Gothic Demi                      │ Family: Franklin Gothic Demi                                                                                ║
+║ Postscript name: FranklinGothic-DemiItalic        │ Postscript name: FranklinGothic-Demi                                                                        ║
+║ Style: Italic                                     │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\FRAHV.TTF                  │ Path: C:\WINDOWS\FONTS\FRADMCN.TTF                                                                          ║
+║ Family: Franklin Gothic Heavy                     │ Family: Franklin Gothic Demi Cond                                                                           ║
+║ Postscript name: FranklinGothic-Heavy             │ Postscript name: FranklinGothic-DemiCond                                                                    ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 3                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\FRAHVIT.TTF                │ Path: C:\WINDOWS\FONTS\FRADMIT.TTF                                                                          ║
+║ Family: Franklin Gothic Heavy                     │ Family: Franklin Gothic Demi                                                                                ║
+║ Postscript name: FranklinGothic-HeavyItalic       │ Postscript name: FranklinGothic-DemiItalic                                                                  ║
+║ Style: Italic                                     │ Style: Italic                                                                                               ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\GILLUBCD.TTF               │ Path: C:\WINDOWS\FONTS\FRAHV.TTF                                                                            ║
+║ Family: Gill Sans Ultra Bold Condensed            │ Family: Franklin Gothic Heavy                                                                               ║
+║ Postscript name: GillSans-UltraBoldCondensed      │ Postscript name: FranklinGothic-Heavy                                                                       ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 900                                                                                                 ║
+║ Width: 3                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\GILSANUB.TTF               │ Path: C:\WINDOWS\FONTS\FRAHVIT.TTF                                                                          ║
+║ Family: Gill Sans Ultra Bold                      │ Family: Franklin Gothic Heavy                                                                               ║
+║ Postscript name: GillSans-UltraBold               │ Postscript name: FranklinGothic-HeavyItalic                                                                 ║
+║ Style: Regular                                    │ Style: Italic                                                                                               ║
+║ Weight: 400                                       │ Weight: 900                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\GLSNECB.TTF                │ Path: C:\WINDOWS\FONTS\GILLUBCD.TTF                                                                         ║
+║ Family: Gill Sans MT Ext Condensed Bold           │ Family: Gill Sans Ultra Bold Condensed                                                                      ║
+║ Postscript name: GillSansMT-ExtraCondensedBold    │ Postscript name: GillSans-UltraBoldCondensed                                                                ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 800                                                                                                 ║
+║ Width: 2                                          │ Width: 3                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGE.TTC                  │ Path: C:\WINDOWS\FONTS\GILSANUB.TTF                                                                         ║
+║ Family: HGGothicE                                 │ Family: Gill Sans Ultra Bold                                                                                ║
+║ Postscript name: HGGothicE                        │ Postscript name: GillSans-UltraBold                                                                         ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 800                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGE.TTC                  │ Path: C:\WINDOWS\FONTS\GLSNECB.TTF                                                                          ║
+║ Family: HGPGothicE                                │ Family: Gill Sans MT Ext Condensed Bold                                                                     ║
+║ Postscript name: HGPGothicE                       │ Postscript name: GillSansMT-ExtraCondensedBold                                                              ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 2                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGE.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGE.TTC                                                                            ║
+║ Family: HGSGothicE                                │ Family: HGｺﾞｼｯｸE                                                                                            ║
+║ Postscript name: HGSGothicE                       │ Postscript name: HGGothicE                                                                                  ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGM.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGE.TTC                                                                            ║
+║ Family: HGGothicM                                 │ Family: HGPｺﾞｼｯｸE                                                                                           ║
+║ Postscript name: HGGothicM                        │ Postscript name: HGPGothicE                                                                                 ║
+║ Style: Medium                                     │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGM.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGE.TTC                                                                            ║
+║ Family: HGPGothicM                                │ Family: HGSｺﾞｼｯｸE                                                                                           ║
+║ Postscript name: HGPGothicM                       │ Postscript name: HGSGothicE                                                                                 ║
+║ Style: Medium                                     │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGM.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGM.TTC                                                                            ║
+║ Family: HGSGothicM                                │ Family: HGｺﾞｼｯｸM                                                                                            ║
+║ Postscript name: HGSGothicM                       │ Postscript name: HGGothicM                                                                                  ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGY.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGM.TTC                                                                            ║
+║ Family: HGGyoshotai                               │ Family: HGPｺﾞｼｯｸM                                                                                           ║
+║ Postscript name: HGGyoshotai                      │ Postscript name: HGPGothicM                                                                                 ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGY.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGM.TTC                                                                            ║
+║ Family: HGPGyoshotai                              │ Family: HGSｺﾞｼｯｸM                                                                                           ║
+║ Postscript name: HGPGyoshotai                     │ Postscript name: HGSGothicM                                                                                 ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRGY.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGY.TTC                                                                            ║
+║ Family: HGSGyoshotai                              │ Family: HG行書体                                                                                            ║
+║ Postscript name: HGSGyoshotai                     │ Postscript name: HGGyoshotai                                                                                ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRKK.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGY.TTC                                                                            ║
+║ Family: HGKyokashotai                             │ Family: HGP行書体                                                                                           ║
+║ Postscript name: HGKyokashotai                    │ Postscript name: HGPGyoshotai                                                                               ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRKK.TTC                  │ Path: C:\WINDOWS\FONTS\HGRGY.TTC                                                                            ║
+║ Family: HGPKyokashotai                            │ Family: HGS行書体                                                                                           ║
+║ Postscript name: HGPKyokashotai                   │ Postscript name: HGSGyoshotai                                                                               ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRKK.TTC                  │ Path: C:\WINDOWS\FONTS\HGRKK.TTC                                                                            ║
+║ Family: HGSKyokashotai                            │ Family: HG教科書体                                                                                          ║
+║ Postscript name: HGSKyokashotai                   │ Postscript name: HGKyokashotai                                                                              ║
+║ Style: Medium                                     │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRMB.TTC                  │ Path: C:\WINDOWS\FONTS\HGRKK.TTC                                                                            ║
+║ Family: HGMinchoB                                 │ Family: HGP教科書体                                                                                         ║
+║ Postscript name: HGMinchoB                        │ Postscript name: HGPKyokashotai                                                                             ║
+║ Style: Bold                                       │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRMB.TTC                  │ Path: C:\WINDOWS\FONTS\HGRKK.TTC                                                                            ║
+║ Family: HGPMinchoB                                │ Family: HGS教科書体                                                                                         ║
+║ Postscript name: HGPMinchoB                       │ Postscript name: HGSKyokashotai                                                                             ║
+║ Style: Bold                                       │ Style: ﾒﾃﾞｨｳﾑ                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRMB.TTC                  │ Path: C:\WINDOWS\FONTS\HGRMB.TTC                                                                            ║
+║ Family: HGSMinchoB                                │ Family: HG明朝B                                                                                             ║
+║ Postscript name: HGSMinchoB                       │ Postscript name: HGMinchoB                                                                                  ║
+║ Style: Bold                                       │ Style: ﾎﾞｰﾙﾄﾞ                                                                                               ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRME.TTC                  │ Path: C:\WINDOWS\FONTS\HGRMB.TTC                                                                            ║
+║ Family: HGMinchoE                                 │ Family: HGP明朝B                                                                                            ║
+║ Postscript name: HGMinchoE                        │ Postscript name: HGPMinchoB                                                                                 ║
+║ Style: Regular                                    │ Style: ﾎﾞｰﾙﾄﾞ                                                                                               ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRME.TTC                  │ Path: C:\WINDOWS\FONTS\HGRMB.TTC                                                                            ║
+║ Family: HGPMinchoE                                │ Family: HGS明朝B                                                                                            ║
+║ Postscript name: HGPMinchoE                       │ Postscript name: HGSMinchoB                                                                                 ║
+║ Style: Regular                                    │ Style: ﾎﾞｰﾙﾄﾞ                                                                                               ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRME.TTC                  │ Path: C:\WINDOWS\FONTS\HGRME.TTC                                                                            ║
+║ Family: HGSMinchoE                                │ Family: HG明朝E                                                                                             ║
+║ Postscript name: HGSMinchoE                       │ Postscript name: HGMinchoE                                                                                  ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPP1.TTC                 │ Path: C:\WINDOWS\FONTS\HGRME.TTC                                                                            ║
+║ Family: HGPSoeiKakupoptai                         │ Family: HGP明朝E                                                                                            ║
+║ Postscript name: HGPSoeiKakupoptai                │ Postscript name: HGPMinchoE                                                                                 ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPP1.TTC                 │ Path: C:\WINDOWS\FONTS\HGRME.TTC                                                                            ║
+║ Family: HGSSoeiKakupoptai                         │ Family: HGS明朝E                                                                                            ║
+║ Postscript name: HGSSoeiKakupoptai                │ Postscript name: HGSMinchoE                                                                                 ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPP1.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPP1.TTC                                                                           ║
+║ Family: HGSoeiKakupoptai                          │ Family: HGP創英角ﾎﾟｯﾌﾟ体                                                                                    ║
+║ Postscript name: HGSoeiKakupoptai                 │ Postscript name: HGPSoeiKakupoptai                                                                          ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPRE.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPP1.TTC                                                                           ║
+║ Family: HGPSoeiPresenceEB                         │ Family: HGS創英角ﾎﾟｯﾌﾟ体                                                                                    ║
+║ Postscript name: HGPSoeiPresenceEB                │ Postscript name: HGSSoeiKakupoptai                                                                          ║
+║ Style: Extra-Bold                                 │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPRE.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPP1.TTC                                                                           ║
+║ Family: HGSSoeiPresenceEB                         │ Family: HG創英角ﾎﾟｯﾌﾟ体                                                                                     ║
+║ Postscript name: HGSSoeiPresenceEB                │ Postscript name: HGSoeiKakupoptai                                                                           ║
+║ Style: Extra-Bold                                 │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRPRE.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPRE.TTC                                                                           ║
+║ Family: HGSoeiPresenceEB                          │ Family: HGP創英ﾌﾟﾚｾﾞﾝｽEB                                                                                    ║
+║ Postscript name: HGSoeiPresenceEB                 │ Postscript name: HGPSoeiPresenceEB                                                                          ║
+║ Style: Extra-Bold                                 │ Style: ｴｸｽﾄﾗﾎﾞｰﾙﾄﾞ                                                                                          ║
+║ Weight: 400                                       │ Weight: 800                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRSGU.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPRE.TTC                                                                           ║
+║ Family: HGPSoeiKakugothicUB                       │ Family: HGS創英ﾌﾟﾚｾﾞﾝｽEB                                                                                    ║
+║ Postscript name: HGPSoeiKakugothicUB              │ Postscript name: HGSSoeiPresenceEB                                                                          ║
+║ Style: Regular                                    │ Style: ｴｸｽﾄﾗﾎﾞｰﾙﾄﾞ                                                                                          ║
+║ Weight: 400                                       │ Weight: 800                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRSGU.TTC                 │ Path: C:\WINDOWS\FONTS\HGRPRE.TTC                                                                           ║
+║ Family: HGSSoeiKakugothicUB                       │ Family: HG創英ﾌﾟﾚｾﾞﾝｽEB                                                                                     ║
+║ Postscript name: HGSSoeiKakugothicUB              │ Postscript name: HGSoeiPresenceEB                                                                           ║
+║ Style: Regular                                    │ Style: ｴｸｽﾄﾗﾎﾞｰﾙﾄﾞ                                                                                          ║
+║ Weight: 400                                       │ Weight: 800                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRSGU.TTC                 │ Path: C:\WINDOWS\FONTS\HGRSGU.TTC                                                                           ║
+║ Family: HGSoeiKakugothicUB                        │ Family: HGP創英角ｺﾞｼｯｸUB                                                                                    ║
+║ Postscript name: HGSoeiKakugothicUB               │ Postscript name: HGPSoeiKakugothicUB                                                                        ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRSKP.TTF                 │ Path: C:\WINDOWS\FONTS\HGRSGU.TTC                                                                           ║
+║ Family: HGSeikaishotaiPRO                         │ Family: HGS創英角ｺﾞｼｯｸUB                                                                                    ║
+║ Postscript name: HGSeikaishotaiPRO                │ Postscript name: HGSSoeiKakugothicUB                                                                        ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\HGRSMP.TTF                 │ Path: C:\WINDOWS\FONTS\HGRSGU.TTC                                                                           ║
+║ Family: HGMaruGothicMPRO                          │ Family: HG創英角ｺﾞｼｯｸUB                                                                                     ║
+║ Postscript name: HGMaruGothicMPRO                 │ Postscript name: HGSoeiKakugothicUB                                                                         ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\LCALLIG.TTF                │ Path: C:\WINDOWS\FONTS\HGRSKP.TTF                                                                           ║
+║ Family: Lucida Calligraphy                        │ Family: HG正楷書体-PRO                                                                                      ║
+║ Postscript name: LucidaCalligraphy-Italic         │ Postscript name: HGSeikaishotaiPRO                                                                          ║
+║ Style: Italic                                     │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\LHANDW.TTF                 │ Path: C:\WINDOWS\FONTS\HGRSMP.TTF                                                                           ║
+║ Family: Lucida Handwriting                        │ Family: HG丸ｺﾞｼｯｸM-PRO                                                                                      ║
+║ Postscript name: LucidaHandwriting-Italic         │ Postscript name: HGMaruGothicMPRO                                                                           ║
+║ Style: Italic                                     │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\LTYPEBO.TTF                │ Path: C:\WINDOWS\FONTS\LCALLIG.TTF                                                                          ║
+║ Family: Lucida Sans Typewriter                    │ Family: Lucida Calligraphy                                                                                  ║
+║ Postscript name: LucidaSans-TypewriterBoldOblique │ Postscript name: LucidaCalligraphy-Italic                                                                   ║
+║ Style: Bold Oblique                               │ Style: Italic                                                                                               ║
+║ Weight: 600                                       │ Weight: 400                                                                                                 ║
+║ Width: 4                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: true                                                                                                ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\LTYPEO.TTF                 │ Path: C:\WINDOWS\FONTS\LHANDW.TTF                                                                           ║
+║ Family: Lucida Sans Typewriter                    │ Family: Lucida Handwriting                                                                                  ║
+║ Postscript name: LucidaSans-TypewriterOblique     │ Postscript name: LucidaHandwriting-Italic                                                                   ║
+║ Style: Oblique                                    │ Style: Italic                                                                                               ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 4                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: true                                                                                                ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\meiryo.ttc                 │ Path: C:\WINDOWS\FONTS\LTYPEBO.TTF                                                                          ║
+║ Family: Meiryo                                    │ Family: Lucida Sans Typewriter                                                                              ║
+║ Postscript name: Meiryo                           │ Postscript name: LucidaSans-TypewriterBoldOblique                                                           ║
+║ Style: Regular                                    │ Style: Bold Oblique                                                                                         ║
+║ Weight: 400                                       │ Weight: 600                                                                                                 ║
+║ Width: 5                                          │ Width: 4                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\meiryo.ttc                 │ Path: C:\WINDOWS\FONTS\LTYPEO.TTF                                                                           ║
+║ Family: Meiryo                                    │ Family: Lucida Sans Typewriter                                                                              ║
+║ Postscript name: Meiryo-Italic                    │ Postscript name: LucidaSans-TypewriterOblique                                                               ║
+║ Style: Italic                                     │ Style: Oblique                                                                                              ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 4                                                                                                    ║
+║ Italic: true                                      │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\meiryob.ttc                │ Path: C:\WINDOWS\FONTS\MEIRYO.TTC                                                                           ║
+║ Family: Meiryo                                    │ Family: メイリオ                                                                                            ║
+║ Postscript name: Meiryo-Bold                      │ Postscript name: Meiryo                                                                                     ║
+║ Style: Bold                                       │ Style: レギュラー                                                                                           ║
+║ Weight: 700                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\meiryob.ttc                │ Path: C:\WINDOWS\FONTS\MEIRYO.TTC                                                                           ║
+║ Family: Meiryo                                    │ Family: メイリオ                                                                                            ║
+║ Postscript name: Meiryo-BoldItalic                │ Postscript name: Meiryo-Italic                                                                              ║
+║ Style: Bold Italic                                │ Style: イタリック                                                                                           ║
+║ Weight: 700                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: true                                      │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\msgothic.ttc               │ Path: C:\WINDOWS\FONTS\MEIRYOB.TTC                                                                          ║
+║ Family: MS Gothic                                 │ Family: メイリオ                                                                                            ║
+║ Postscript name: MS-Gothic                        │ Postscript name: Meiryo-Bold                                                                                ║
+║ Style: Regular                                    │ Style: ボールド                                                                                             ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\msgothic.ttc               │ Path: C:\WINDOWS\FONTS\MEIRYOB.TTC                                                                          ║
+║ Family: MS PGothic                                │ Family: メイリオ                                                                                            ║
+║ Postscript name: MS-PGothic                       │ Postscript name: Meiryo-BoldItalic                                                                          ║
+║ Style: Regular                                    │ Style: ボールド イタリック                                                                                  ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\msgothic.ttc               │ Path: C:\WINDOWS\FONTS\MSGOTHIC.TTC                                                                         ║
+║ Family: MS UI Gothic                              │ Family: ＭＳ ゴシック                                                                                       ║
+║ Postscript name: MS-UIGothic                      │ Postscript name: MS-Gothic                                                                                  ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\msmincho.ttc               │ Path: C:\WINDOWS\FONTS\MSGOTHIC.TTC                                                                         ║
+║ Family: MS Mincho                                 │ Family: ＭＳ Ｐゴシック                                                                                     ║
+║ Postscript name: MS-Mincho                        │ Postscript name: MS-PGothic                                                                                 ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\msmincho.ttc               │ Path: C:\WINDOWS\FONTS\MSGOTHIC.TTC                                                                         ║
+║ Family: MS PMincho                                │ Family: MS UI Gothic                                                                                        ║
+║ Postscript name: MS-PMincho                       │ Postscript name: MS-UIGothic                                                                                ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\OCRAEXT.TTF                │ Path: C:\WINDOWS\FONTS\MSMINCHO.TTC                                                                         ║
+║ Family: OCR A Extended                            │ Family: ＭＳ 明朝                                                                                           ║
+║ Postscript name: OCRAExtended                     │ Postscript name: MS-Mincho                                                                                  ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\RAGE.TTF                   │ Path: C:\WINDOWS\FONTS\MSMINCHO.TTC                                                                         ║
+║ Family: Rage Italic                               │ Family: ＭＳ Ｐ明朝                                                                                         ║
+║ Postscript name: RageItalic                       │ Postscript name: MS-PMincho                                                                                 ║
+║ Style: Regular                                    │ Style: 標準                                                                                                 ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\TCCB____.TTF               │ Path: C:\WINDOWS\FONTS\OCRAEXT.TTF                                                                          ║
+║ Family: Tw Cen MT Condensed                       │ Family: OCR A Extended                                                                                      ║
+║ Postscript name: TwCenMT-CondensedBold            │ Postscript name: OCRAExtended                                                                               ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 7                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\TCCEB.TTF                  │ Path: C:\WINDOWS\FONTS\RAGE.TTF                                                                             ║
+║ Family: Tw Cen MT Condensed Extra Bold            │ Family: Rage Italic                                                                                         ║
+║ Postscript name: TwCenMT-CondensedExtraBold       │ Postscript name: RageItalic                                                                                 ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: true                                                                                                ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\TCCM____.TTF               │ Path: C:\WINDOWS\FONTS\TCCB____.TTF                                                                         ║
+║ Family: Tw Cen MT Condensed                       │ Family: Tw Cen MT Condensed                                                                                 ║
+║ Postscript name: TwCenMT-Condensed                │ Postscript name: TwCenMT-CondensedBold                                                                      ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 3                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-B.ttc      │ Path: C:\WINDOWS\FONTS\TCCEB.TTF                                                                            ║
+║ Family: UD Digi Kyokasho N-B                      │ Family: Tw Cen MT Condensed Extra Bold                                                                      ║
+║ Postscript name: UDDigiKyokashoN-B                │ Postscript name: TwCenMT-CondensedExtraBold                                                                 ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 800                                                                                                 ║
+║ Width: 5                                          │ Width: 3                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-B.ttc      │ Path: C:\WINDOWS\FONTS\TCCM____.TTF                                                                         ║
+║ Family: UD Digi Kyokasho NK-B                     │ Family: Tw Cen MT Condensed                                                                                 ║
+║ Postscript name: UDDigiKyokashoNK-B               │ Postscript name: TwCenMT-Condensed                                                                          ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 3                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-B.ttc      │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-B.TTC                                                                ║
+║ Family: UD Digi Kyokasho NP-B                     │ Family: UD デジタル 教科書体 N-B                                                                            ║
+║ Postscript name: UDDigiKyokashoNP-B               │ Postscript name: UDDigiKyokashoN-B                                                                          ║
+║ Style: Bold                                       │ Style: Bold                                                                                                 ║
+║ Weight: 700                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-R.ttc      │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-B.TTC                                                                ║
+║ Family: UD Digi Kyokasho N-R                      │ Family: UD デジタル 教科書体 NK-B                                                                           ║
+║ Postscript name: UDDigiKyokashoN-R                │ Postscript name: UDDigiKyokashoNK-B                                                                         ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: true                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-R.ttc      │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-B.TTC                                                                ║
+║ Family: UD Digi Kyokasho NK-R                     │ Family: UD デジタル 教科書体 NP-B                                                                           ║
+║ Postscript name: UDDigiKyokashoNK-R               │ Postscript name: UDDigiKyokashoNP-B                                                                         ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 400                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\UDDigiKyokashoN-R.ttc      │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-R.TTC                                                                ║
+║ Family: UD Digi Kyokasho NP-R                     │ Family: UD デジタル 教科書体 N-R                                                                            ║
+║ Postscript name: UDDigiKyokashoNP-R               │ Postscript name: UDDigiKyokashoN-R                                                                          ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: true                                                                                             ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\YuGothB.ttc                │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-R.TTC                                                                ║
+║ Family: Yu Gothic                                 │ Family: UD デジタル 教科書体 NK-R                                                                           ║
+║ Postscript name: YuGothic-Bold                    │ Postscript name: UDDigiKyokashoNK-R                                                                         ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 700                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\YuGothL.ttc                │ Path: C:\WINDOWS\FONTS\UDDIGIKYOKASHON-R.TTC                                                                ║
+║ Family: Yu Gothic Light                           │ Family: UD デジタル 教科書体 NP-R                                                                           ║
+║ Postscript name: YuGothic-Light                   │ Postscript name: UDDigiKyokashoNP-R                                                                         ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 300                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\YuGothM.ttc                │ Path: C:\WINDOWS\FONTS\YUGOTHB.TTC                                                                          ║
+║ Family: Yu Gothic Medium                          │ Family: 游ゴシック                                                                                          ║
+║ Postscript name: YuGothic-Medium                  │ Postscript name: YuGothic-Bold                                                                              ║
+║ Style: Regular                                    │ Style: Bold                                                                                                 ║
+║ Weight: 500                                       │ Weight: 700                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\YuGothR.ttc                │ Path: C:\WINDOWS\FONTS\YUGOTHL.TTC                                                                          ║
+║ Family: Yu Gothic                                 │ Family: 游ゴシック Light                                                                                    ║
+║ Postscript name: YuGothic-Regular                 │ Postscript name: YuGothic-Light                                                                             ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 300                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\yumin.ttf                  │ Path: C:\WINDOWS\FONTS\YUGOTHM.TTC                                                                          ║
+║ Family: Yu Mincho                                 │ Family: 游ゴシック Medium                                                                                   ║
+║ Postscript name: YuMincho-Regular                 │ Postscript name: YuGothic-Medium                                                                            ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 400                                       │ Weight: 500                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\yumindb.ttf                │ Path: C:\WINDOWS\FONTS\YUGOTHR.TTC                                                                          ║
+║ Family: Yu Mincho Demibold                        │ Family: 游ゴシック                                                                                          ║
+║ Postscript name: YuMincho-Demibold                │ Postscript name: YuGothic-Regular                                                                           ║
+║ Style: Bold                                       │ Style: Regular                                                                                              ║
+║ Weight: 600                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║ Path: C:\Windows\Fonts\yuminl.ttf                 │ Path: C:\WINDOWS\FONTS\YUMIN.TTF                                                                            ║
+║ Family: Yu Mincho Light                           │ Family: 游明朝                                                                                              ║
+║ Postscript name: YuMincho-Light                   │ Postscript name: YuMincho-Regular                                                                           ║
+║ Style: Regular                                    │ Style: Regular                                                                                              ║
+║ Weight: 300                                       │ Weight: 400                                                                                                 ║
+║ Width: 5                                          │ Width: 5                                                                                                    ║
+║ Italic: false                                     │ Italic: false                                                                                               ║
+║ Monospace: false                                  │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║                                                   │ Path: C:\WINDOWS\FONTS\YUMINDB.TTF                                                                          ║
+║                                                   │ Family: 游明朝 Demibold                                                                                     ║
+║                                                   │ Postscript name: YuMincho-Demibold                                                                          ║
+║                                                   │ Style: Bold                                                                                                 ║
+║                                                   │ Weight: 600                                                                                                 ║
+║                                                   │ Width: 5                                                                                                    ║
+║                                                   │ Italic: false                                                                                               ║
+║                                                   │ Monospace: false                                                                                            ║
+╟───────────────────────────────────────────────────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────╢
+║                                                   │ Path: C:\WINDOWS\FONTS\YUMINL.TTF                                                                           ║
+║                                                   │ Family: 游明朝 Light                                                                                        ║
+║                                                   │ Postscript name: YuMincho-Light                                                                             ║
+║                                                   │ Style: Regular                                                                                              ║
+║                                                   │ Weight: 300                                                                                                 ║
+║                                                   │ Width: 5                                                                                                    ║
+║                                                   │ Italic: false                                                                                               ║
+║                                                   │ Monospace: false                                                                                            ║
+╚═══════════════════════════════════════════════════╧═════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+
